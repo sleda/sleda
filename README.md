@@ -26,9 +26,9 @@ I'm a senior year university student majoring in Computer Engineering. I have a 
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=sleda&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-  <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=sleda&theme=dark&hide_border=false" />
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleda&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=sleda&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+  <img height="130em" width="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=sleda&theme=dark&hide_border=false" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleda&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
 
