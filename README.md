@@ -1,4 +1,4 @@
-# 👨‍💻 Hey there, I'm [İhsan]! 💫 
+# 👨‍💻 Hey there, I'm **İhsan!** 💫 
 
 <table>
     <tr>
