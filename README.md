@@ -1,12 +1,12 @@
-# 👨‍💻 Hey there, I'm [YourName]! 💫 
+# 👨‍💻 Hey there, I'm [İhsan]! 💫 
 
 <table>
     <tr>
         <td valign="top" width="80%">
-            🎓 I'm a senior year **university student** majoring in **Computer Engineering**. 
+            🎓 I'm a senior-year university student majoring in Computer Engineering. 
             🚀 I have a keen interest in **Backend Development**, **Cybersecurity**, and **Blockchain** technologies.
             🤝 I possess strong communication skills and can work efficiently with minimal supervision.
-            🌍 Open for collaboration and seeking new opportunities!
+            🌍 Open to collaboration and seeking new opportunities!
         </td>
         <td valign="top">
             <a href="https://visitcount.itsvg.in">
@@ -19,8 +19,6 @@
         </td>
     </tr>
 </table>
-
----
 
 ## 📲 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ihsanersen) 
@@ -59,10 +57,5 @@
   <img height="130em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleda&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
----
-
 ### 💬 Random Wisdom for Developers:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
