@@ -1,5 +1,18 @@
 # 💫 About Me:
-I'm a senior year university student majoring in Computer Engineering. I have a keen interest in Backend Development, Cybersecurity, and Blockchain technologies. I possess strong communication skills and can work efficiently with minimal supervision.
+
+<table>
+    <tr>
+        <td valign="top" width="80%">
+            I'm a senior year university student majoring in Computer Engineering. I have a keen interest in Backend Development, Cybersecurity, and Blockchain technologies. I possess strong communication skills and can work efficiently with minimal supervision.
+        </td>
+        <td valign="top">
+            <a href="https://buymeacoffee.com/https://bmc.link/bysleda">
+                <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee">
+            </a>
+        </td>
+    </tr>
+</table>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ihsanersen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-root) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13002054) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/azsleda) 
@@ -26,11 +39,10 @@ I'm a senior year university student majoring in Computer Engineering. I have a 
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img height="130em" width="250em" src="https://github-readme-stats.vercel.app/api?username=sleda&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-  <img height="130em" width="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=sleda&theme=dark&hide_border=false" />
-  <img height="130em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleda&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img height="130em" width="250em" src="https://github-readme-stats.vercel.app/api?username=sleda&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
+  <img height="130em" width="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=sleda&theme=dark&hide_border=true" />
+  <img height="130em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleda&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </p>
-
 
 
 ### ✍️ Random Software Quote:
@@ -38,7 +50,4 @@ I'm a senior year university student majoring in Computer Engineering. I have a 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sleda&icon=9&color=1)](https://visitcount.itsvg.in)
-
-## 💰 Support Me:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/bysleda) 
 
