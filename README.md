@@ -1,16 +1,14 @@
 # 👋 Hey there, I'm **Ihsan!** 💫 
 
-<table width="100%">
+<table>
     <tr>
-        <!-- Increase the width of this cell -->
-        <td valign="top" width="75%">
+        <td valign="top" width="83%">
             🎓 I'm a senior-year university student majoring in Computer Engineering. <br>
             🚀 I have a keen interest in Backend Development and Cybersecurity technologies.<br>
             🤝 I possess strong communication skills and can work efficiently with minimal supervision.<br>
             🌍 Open to collaboration and seeking new opportunities!
         </td>
-        <!-- Adjust the width of this cell accordingly -->
-        <td valign="top" width="25%">
+        <td valign="top">
             <br>
             <img src="https://komarev.com/ghpvc/?username=sleda&style=flat-square" />
             <br>
