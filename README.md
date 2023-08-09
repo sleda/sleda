@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-        <td valign="top" width="90%">
+        <td valign="top" width="75%">
             🎓 I'm a senior-year university student majoring in Computer Engineering. <br>
             🚀 I have a keen interest in Backend Development and Cybersecurity technologies.<br>
             🤝 I possess strong communication skills and can work efficiently with minimal supervision.<br>
