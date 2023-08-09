@@ -2,13 +2,15 @@
 
 <table width="100%">
     <tr>
-        <td valign="top" width="83%">
+        <!-- Increase the width of this cell -->
+        <td valign="top" width="75%">
             🎓 I'm a senior-year university student majoring in Computer Engineering. <br>
             🚀 I have a keen interest in Backend Development and Cybersecurity technologies.<br>
             🤝 I possess strong communication skills and can work efficiently with minimal supervision.<br>
             🌍 Open to collaboration and seeking new opportunities!
         </td>
-        <td valign="top">
+        <!-- Adjust the width of this cell accordingly -->
+        <td valign="top" width="25%">
             <br>
             <img src="https://komarev.com/ghpvc/?username=sleda&style=flat-square" />
             <br>
@@ -18,6 +20,7 @@
         </td>
     </tr>
 </table>
+
 
 
 ## 📧 Connect with Me:
