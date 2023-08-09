@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Ihsan!** 💫 
 
-<table>
+<table width="100%">
     <tr>
         <td valign="top" width="83%">
             🎓 I'm a senior-year university student majoring in Computer Engineering. <br>
