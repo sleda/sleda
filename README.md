@@ -10,7 +10,7 @@
         </td>
         <td valign="top">
             <a href="https://visitcount.itsvg.in">
-                <img src="https://visitcount.itsvg.in/api?id=sleda&icon=9&color=1" alt="Visit Count">
+              <img src="https://visitcount.itsvg.in/api?id=sleda&label=Profile%20Views&color=1&icon=9&pretty=true" />
             </a>
             <br>
             <a href="https://buymeacoffee.com/https://bmc.link/bysleda">
