@@ -1,16 +1,44 @@
-### Hi there 👋
+# 💫 Hakkımda:
+Bilgisayar Mühendisliği ana dalında son sınıf üniversite öğrencisiyim. Arka uç geliştirmeye, siber güvenliğe ve blok zincir teknolojilerine özel bir ilgi duyuyorum. Güçlü iletişim yeteneklerine sahibim ve minimum denetimle verimli bir şekilde çalışmak için yüksek bir öz motivasyona sahibim.
 
-<!--
-**sleda/sleda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Sosyal Medya Hesaplarım:
+... 
 
-Here are some ideas to get you started:
+# 💻 Teknoloji Yığını:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Diller:
+- ![TypeScript](...)
+- ![JavaScript](...)
+- ![Python](...)
+- ![C++](...)
+
+### 🛠 Framework ve Araçlar:
+- ![NestJS](...)
+- ![NodeJS](...)
+- ![Apache](...)
+
+### 🖥 Bulut ve Sunucu:
+- ![Azure](...)
+- ![Heroku](...)
+
+### 🎨 Tasarım ve Medya:
+- ![Adobe After Effects](...)
+- ... (diğer Adobe ürünleri ve Figma)
+
+### 🗄 Veritabanı:
+- ![MongoDB](...)
+
+### 🛡 Sistem ve İşbirliği:
+- ![LINUX](...)
+- ![Jira](...)
+- ![Confluence](...)
+
+### 🚢 Konteyner ve Dokümantasyon:
+- ![Swagger](...)
+- ![Docker](...)
+
+...
+
+## 💰 Bağış Yaparak Beni Destekleyebilirsiniz
+...
+
