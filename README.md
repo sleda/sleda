@@ -1,4 +1,4 @@
-# 👨‍💻 Hey there, I'm **İhsan!** 💫 
+# 👋 Hey there, I'm **İhsan!** 💫 
 
 <table>
     <tr>
@@ -20,10 +20,11 @@
 </table>
 
 
-## 📲 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ihsanersen) 
+## 📧 Connect with Me:
+[![Email](https://img.shields.io/badge/Email-%23333.svg?logo=microsoft-outlook&logoColor=white)](mailto:ihsan.ersen@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-root) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13002054) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13002054)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ihsanersen) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/azsleda)
 
 ---
