@@ -6,12 +6,17 @@
             I'm a senior year university student majoring in Computer Engineering. I have a keen interest in Backend Development, Cybersecurity, and Blockchain technologies. I possess strong communication skills and can work efficiently with minimal supervision.
         </td>
         <td valign="top">
+            <a href="https://visitcount.itsvg.in">
+                <img src="https://visitcount.itsvg.in/api?id=sleda&icon=9&color=1" alt="Visit Count">
+            </a>
+            <br>
             <a href="https://buymeacoffee.com/https://bmc.link/bysleda">
                 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee">
             </a>
         </td>
     </tr>
 </table>
+
 
 
 ## 🌐 Socials:
@@ -49,5 +54,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sleda&icon=9&color=1)](https://visitcount.itsvg.in)
+
 
