@@ -4,7 +4,7 @@
     <tr>
         <td valign="top" width="80%">
             🎓 I'm a senior-year university student majoring in Computer Engineering. 
-            🚀 I have a keen interest in **Backend Development**, **Cybersecurity**, and **Blockchain** technologies.
+            🚀 I have a keen interest in Backend Development and Cybersecurity technologies.
             🤝 I possess strong communication skills and can work efficiently with minimal supervision.
             🌍 Open to collaboration and seeking new opportunities!
         </td>
