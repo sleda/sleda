@@ -3,9 +3,9 @@
 <table>
     <tr>
         <td valign="top" width="80%">
-            🎓 I'm a senior-year university student majoring in Computer Engineering. 
-            🚀 I have a keen interest in Backend Development and Cybersecurity technologies.
-            🤝 I possess strong communication skills and can work efficiently with minimal supervision.
+            🎓 I'm a senior-year university student majoring in Computer Engineering. <br>
+            🚀 I have a keen interest in Backend Development and Cybersecurity technologies.<br>
+            🤝 I possess strong communication skills and can work efficiently with minimal supervision.<br>
             🌍 Open to collaboration and seeking new opportunities!
         </td>
         <td valign="top">
