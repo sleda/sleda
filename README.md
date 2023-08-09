@@ -25,7 +25,13 @@ I'm a senior year university student majoring in Computer Engineering. I have a 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sleda&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=sleda&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sleda&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=sleda&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+  <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=sleda&theme=dark&hide_border=false" />
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleda&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</p>
+
+
 
 ### ✍️ Random Software Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
