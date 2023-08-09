@@ -9,12 +9,11 @@
             🌍 Open to collaboration and seeking new opportunities!
         </td>
         <td valign="top">
-            <a href="https://visitcount.itsvg.in">
-              <img src="https://visitcount.itsvg.in/api?id=sleda&label=Profile%20Views&color=1&icon=9&pretty=true" />
-            </a>
+            <br>
+            <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square" />
             <br>
             <a href="https://buymeacoffee.com/https://bmc.link/bysleda">
-                <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee">
+                <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=blue" alt="BuyMeACoffee">
             </a>
         </td>
     </tr>
