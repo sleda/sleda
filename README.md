@@ -12,7 +12,7 @@
             <br>
             <img src="https://komarev.com/ghpvc/?username=sleda&style=flat-square" />
             <br>
-            <a href="https://buymeacoffee.com/https://bmc.link/bysleda">
+            <a href="https://bmc.link/bysleda">
                 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=blue" alt="BuyMeACoffee">
             </a>
         </td>
