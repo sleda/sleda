@@ -30,57 +30,41 @@
 
 # 💼 My Toolkit:
 
-### 🛠 Programming & Development:
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-### 📚 Frameworks & Libraries:
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Deno JS](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white) 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) 
-![i18n](https://img.shields.io/badge/i18n-%23000000.svg?style=for-the-badge&logo=google-translate&logoColor=white) 
-![React Email](https://img.shields.io/badge/React%20Email-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
-![Biome](https://img.shields.io/badge/Biome-%230092E6.svg?style=for-the-badge&logo=biome&logoColor=white) 
-
-### ☁️ Cloud & DevOps:
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) 
-![Upstash](https://img.shields.io/badge/Upstash-%232EBD85.svg?style=for-the-badge&logo=upstash&logoColor=white) 
-![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) 
-![Trigger.dev](https://img.shields.io/badge/Trigger.dev-%23000000.svg?style=for-the-badge&logo=triggerdotdev&logoColor=white)
-
-### 🗄 Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🌐 IDEs & Editors:
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-### 🎨 Design & Multimedia:
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white) 
-
-### 🧰 Other Tools:
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Turborepo](https://img.shields.io/badge/Turborepo-%23000000.svg?style=for-the-badge&logo=turborepo&logoColor=white) 
-![Resend](https://img.shields.io/badge/Resend-%23000000.svg?style=for-the-badge&logo=resend&logoColor=white) 
-![OpenPanel](https://img.shields.io/badge/OpenPanel-%23000000.svg?style=for-the-badge&logo=openpanel&logoColor=white)
+<div align="center">
+  <h3>Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java" />
+  
+  <h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,nodejs,react,tailwind,vite" />
+  <img src="https://cdn.simpleicons.org/hono/E36002" width="48" height="48" alt="Hono" style="display:inline-block;margin:0 6px" />
+  
+  <h3>Build Tools & Runtime</h3>
+  <img src="https://skillicons.dev/icons?i=bun" />
+  <img src="https://cdn.simpleicons.org/turborepo/EF4444" width="48" height="48" alt="Turborepo" style="display:inline-block;margin:0 6px" />
+  <img src="https://cdn.simpleicons.org/biome/60A5FA" width="48" height="48" alt="Biome" style="display:inline-block;margin:0 6px" />
+  
+  <h3>UI & Styling</h3>
+  <img src="https://skillicons.dev/icons?i=tailwind,react" />
+  <img src="https://cdn.simpleicons.org/shadcnui/000000" width="48" height="48" alt="Shadcn UI" style="display:inline-block;margin:0 6px" />
+  <img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="48" alt="Framer Motion" style="display:inline-block;margin:0 6px" />
+  
+  <h3>State Management & Form Handling</h3>
+  <img src="https://cdn.simpleicons.org/zustand/000000" width="48" height="48" alt="Zustand" style="display:inline-block;margin:0 6px" />
+  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="48" height="48" alt="React Hook Form" style="display:inline-block;margin:0 6px" />
+  <img src="https://cdn.simpleicons.org/zod/3068B7" width="48" height="48" alt="Zod" style="display:inline-block;margin:0 6px" />
+  
+  <h3>Cloud & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=azure,docker,supabase,heroku" />
+  <img src="https://cdn.simpleicons.org/trigger.dev/000000" width="48" height="48" alt="Trigger.dev" style="display:inline-block;margin:0 6px" />
+  <img src="https://cdn.simpleicons.org/upstash/00E9A3" width="48" height="48" alt="Upstash" style="display:inline-block;margin:0 6px" />
+  <img src="https://cdn.simpleicons.org/sentry/362D59" width="48" height="48" alt="Sentry" style="display:inline-block;margin:0 6px" />
+  
+  <h3>Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+  
+  <h3>Tools & Editors</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,linux,figma" />
+</div>
 
 ---
 
@@ -90,3 +74,14 @@
   <img height="130em" width="291em" src="https://github-readme-streak-stats.herokuapp.com/?user=sleda&theme=dark&hide_border=true" />
   <img height="130em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleda&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
