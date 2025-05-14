@@ -1,6 +1,4 @@
-# 👋 Hey there, I'm **Ihsan!** 💫 
-
-## 📧 Connect with Me:
+# Hey there, I'm _Ihsan!_ 💫 
 [![Email](https://img.shields.io/badge/Email-%23333.svg?logo=microsoft-outlook&logoColor=white)](mailto:ihsan.ersen@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-root) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13002054)
@@ -28,7 +26,6 @@
 
 ---
 
-# 💼 My Toolkit:
 
 <div align="center">
   <h3>Programming Languages</h3>
@@ -67,13 +64,6 @@
 </div>
 
 ---
-
-# 📊 My Digital Footprint:
-
-<p align="left">
-  <img height="130em" width="291em" src="https://github-readme-streak-stats.herokuapp.com/?user=sleda&theme=dark&hide_border=true" />
-  <img height="130em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleda&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-</p>
 
 <div align="center">
   <picture>
