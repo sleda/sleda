@@ -46,12 +46,12 @@
   <img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="48" alt="Framer Motion" style="display:inline-block;margin:0 6px" />
   
   <h3>State Management & Form Handling</h3>
-  <img src="https://cdn.simpleicons.org/zustand/000000" width="48" height="48" alt="Zustand" style="display:inline-block;margin:0 6px" />
+  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48" height="48" alt="Zustand" style="display:inline-block;margin:0 6px" />
   <img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="48" height="48" alt="React Hook Form" style="display:inline-block;margin:0 6px" />
   <img src="https://cdn.simpleicons.org/zod/3068B7" width="48" height="48" alt="Zod" style="display:inline-block;margin:0 6px" />
   
   <h3>Cloud & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=azure,docker,supabase,heroku" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,azure,docker,supabase,heroku" />
   <img src="https://cdn.simpleicons.org/trigger.dev/000000" width="48" height="48" alt="Trigger.dev" style="display:inline-block;margin:0 6px" />
   <img src="https://cdn.simpleicons.org/upstash/00E9A3" width="48" height="48" alt="Upstash" style="display:inline-block;margin:0 6px" />
   <img src="https://cdn.simpleicons.org/sentry/362D59" width="48" height="48" alt="Sentry" style="display:inline-block;margin:0 6px" />
